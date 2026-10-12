@@ -1,0 +1,9 @@
+title: Talks
+description: Slides and notes from talks by Dusan Stanojevic.
+author: Dusan Stanojevic
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
